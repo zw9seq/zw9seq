@@ -32,7 +32,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 ### ⚙️ Tecnologías y herramientas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,kubernetes,postgressql" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,kubernetes,sql" />
 </p>
 
 <!--
