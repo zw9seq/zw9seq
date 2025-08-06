@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerGithub.png?raw=true" alt="Banner zw9seq" width="100%"/>
+  <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerGithub.png?raw=true" alt="Banner zw9seq" height="80%"/>
 </p>
 
 <h1 align="center"> Jorge Bas | zw9seq </h1>
@@ -17,7 +17,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 
 <p align="center">
   <a href="https://zw9seq.github.io/proyectos/Recon1n/">
-    <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerReconin?raw=true" alt="Recon1n" width="80%" />
+    <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerReconin.png?raw=true" alt="Recon1n" width="80%" />
   </a>
 </p>
 
