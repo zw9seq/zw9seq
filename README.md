@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerGithub.png?raw=true" alt="Banner zw9seq" width="100%" height="400"/>
+  <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerGithub.png?raw=true" alt="Banner zw9seq" width="100%" height="500"/>
 </p>
 
 <h1 align="center"> Jorge Bas | zw9seq </h1>
