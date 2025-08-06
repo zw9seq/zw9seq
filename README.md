@@ -32,7 +32,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 ### ⚙️ Tecnologías y herramientas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,kubernetes,postgresSql" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,kubernetes,postgressql" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 ### 📊 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccyl13&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zw9seq&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccyl13&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zw9seq&show_icons=true&theme=radical" alt="GitHub stats"/>
 </p>
 
 ---
