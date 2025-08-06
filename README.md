@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerGithub.png?raw=true" alt="Banner zw9seq" height="80%"/>
+  <img src="https://github.com/zw9seq/zw9seq/blob/main/bannerGithub.png?raw=true" alt="Banner zw9seq" width="70%"/>
 </p>
 
 <h1 align="center"> Jorge Bas | zw9seq </h1>
@@ -35,7 +35,6 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,kubernetes,postgressql" />
 </p>
 
----
 <!--
 ### 🛡️ Herramientas de Red Team
 
