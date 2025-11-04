@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 Sobre mí
+## 🧠 Sobre mí
 
 Administrador de Sistemas especializado en seguridad. Actualmente en proceso de aprendizaje sobre la nube de AWS y la cultura DevOps; comprometido con la innovación y el aprendizaje constante.
 
 ---
 
-### 🎓 Contenido destacado: Recon1n
+## 🎓 Contenido destacado: Recon1n
 
 <p align="center">
   <a href="https://zw9seq.github.io/proyectos/Recon1n/">
@@ -29,7 +29,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 
 ---
 
-### ⚙️ Tecnologías y herramientas que uso
+## ⚙️ Tecnologías y herramientas que uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,js,html,css,git,github,vscode,docker,kubernetes" />
@@ -66,7 +66,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 -->
 ---
 
-### 📊 Lenguajes más usados
+## 📊 Lenguajes más usados
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zw9seq&layout=compact&theme=radical" alt="Top languages"/>
@@ -74,7 +74,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 
 ---
 
-### 📈 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zw9seq&show_icons=true&theme=radical" alt="GitHub stats"/>
@@ -82,7 +82,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 
 ---
 
-### 🌐 Encuéntrame en:
+## 🌐 Encuéntrame en:
 
 <p align="center">
   <a href="https://github.com/zw9seq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
