@@ -63,7 +63,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
   <img src="https://img.shields.io/badge/GHunt-Google%20Account%20Tracker-2c3e50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ExifTool-Metadata%20Analyzer-darkslategray?style=for-the-badge"/>
 </p>
--->
+
 ---
 
 ## 📊 Lenguajes más usados
@@ -71,7 +71,7 @@ Administrador de Sistemas especializado en seguridad. Actualmente en proceso de 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zw9seq&layout=compact&theme=radical" alt="Top languages"/>
 </p>
-
+-->
 ---
 
 ## 📈 Estadísticas de GitHub
